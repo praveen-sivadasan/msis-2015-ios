@@ -11,3 +11,7 @@ The application edConnect lets 3 kinds of users to log into the system.
 1. Admin being the super user has special privileges to overlook the other application users, their actions and catalogues.
 2. Student user logs in and can view the various available courses. The user can request the admin for enrollment into a particular course.
 3. Faculty user can request admin to teach a course and can view and update the grades of students.
+
+Class Diagram
+
+![alt tag](https://cloud.githubusercontent.com/assets/18182515/21335375/51dd2724-c62c-11e6-8682-d5ba73ce44d0.jpg)
