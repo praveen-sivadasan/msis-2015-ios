@@ -15,3 +15,8 @@ The application edConnect lets 3 kinds of users to log into the system.
 Class Diagram
 
 ![alt tag](https://cloud.githubusercontent.com/assets/18182515/21335375/51dd2724-c62c-11e6-8682-d5ba73ce44d0.jpg)
+
+Xcode Story Board Diagram
+
+![alt tag](https://cloud.githubusercontent.com/assets/18182515/21335423/c061418a-c62c-11e6-9c9c-b371f41b3b41.png)
+
