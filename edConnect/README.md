@@ -1,7 +1,7 @@
 # Objective-C
 
-# Software : XCode 7.3.1
-# Language : Objective C
+Software : XCode 7.3.1
+Language : Objective C
 
 API's integrated : Back4App, MessageUI.framework, Google Sign-In for iOS, FSLineChart, JSBadgeView, Bug life - reporting bugs.
 
