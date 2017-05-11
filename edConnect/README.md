@@ -49,6 +49,23 @@ The MFMailComposeViewController class provides a standard interface for managing
 
 9.	Activity indicator view
 
+
 **Application Screenshots**
 
 ![ios](https://cloud.githubusercontent.com/assets/18182515/25933457/e552b60e-35e4-11e7-9b0f-a70cbef14a1b.png)
+
+
+**Future Enhancements**
+
+1.	Live chat service
+> To provide a chat platform for students and teachers to chat real time.
+2.	Implement push notification
+> Using parse push notification feature to notify users while adding a new course by admin.
+https://parse.com/tutorials/push-notifications
+3.	Detailed logging feature using cocaLumberjack
+> https://github.com/CocoaLumberjack/CocoaLumberjack/blob/master/Documentation/GettingStarted.md#manual-installation
+4.	Google Analytics to monitor page performance
+> https://developers.google.com/analytics/devguides/collection/ios/v3/
+5.	Enhanced security
+> Simple-Touch: Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS
+
