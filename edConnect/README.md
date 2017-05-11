@@ -21,3 +21,26 @@ The application edConnect lets 3 kinds of users to log into the system.
 
 ![alt tag](https://cloud.githubusercontent.com/assets/18182515/21335423/c061418a-c62c-11e6-9c9c-b371f41b3b41.png)
 
+**Application Screenshots**
+
+> Application Main Page
+![home_page](https://cloud.githubusercontent.com/assets/18182515/25932646/7d6836c6-35e0-11e7-90cf-0d2422005277.png)
+
+> Google Sign In
+![login](https://cloud.githubusercontent.com/assets/18182515/25932644/7d643210-35e0-11e7-9608-e45812916c84.png)
+
+> User welcome page
+![welcome](https://cloud.githubusercontent.com/assets/18182515/25932641/7d62c47a-35e0-11e7-90d1-84a767b6e3a4.png)
+
+> Search Courses
+![courses](https://cloud.githubusercontent.com/assets/18182515/25932645/7d655e60-35e0-11e7-9644-241b9ad4ef49.png)
+
+> Search Students
+![users](https://cloud.githubusercontent.com/assets/18182515/25932643/7d63ac00-35e0-11e7-872a-23a349501de7.png)
+
+> Course Request Page
+![requests](https://cloud.githubusercontent.com/assets/18182515/25932640/7d6299fa-35e0-11e7-8dd3-4900409e760d.png)
+
+> Statistical analysis of student performance
+![statistics](https://cloud.githubusercontent.com/assets/18182515/25932642/7d635d04-35e0-11e7-9b0f-0b01208dc332.png)
+
