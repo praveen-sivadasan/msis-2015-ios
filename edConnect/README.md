@@ -24,24 +24,24 @@ The application edConnect lets 3 kinds of users to log into the system.
 **Application Features**
 Following are the special features integrated into the application:
 
-1.	Back4App
-Back4App provides backend as a service, which is a model for providing web app and mobile app developers a way to link their applications to backendcloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.
+1.	Back4App :
+> Back4App provides backend as a service, which is a model for providing web app and mobile app developers a way to link their    applications to backendcloud storage and APIs exposed by back end applications while also providing features such as user management, push notifications, and integration with social networking services.
 
 2.	MessageUI.framework
-The Message UI framework provides specialized view controllers for presenting standard composition interfaces for email. 
+> The Message UI framework provides specialized view controllers for presenting standard composition interfaces for email. 
 The MFMailComposeViewController class provides a standard interface for managing, editing, and sending an email message. Use this view controller to display a standard email interface inside your app.
 
 3.	Google Sign-In for iOS
-User can sign in to the app quickly and securely using a registration system they already use and trust—their Google account.
+> User can sign in to the app quickly and securely using a registration system they already use and trust—their Google account.
 
 4.	FSLineChart
- A simple line chart library for iOS that is easily adjustable (size, color, line width, label) and used to show statistical analysis of data in the application.
+> A simple line chart library for iOS that is easily adjustable (size, color, line width, label) and used to show statistical analysis of data in the application.
 
 5.	JSBadgeView
-Customizable UIKit badge view like the one on applications in the iOS springboard. Very optimized for performance: drawn entirely using CoreGraphics.
+> Customizable UIKit badge view like the one on applications in the iOS springboard. Very optimized for performance: drawn entirely using CoreGraphics.
 
 6.	UICollections View
-A collection view is a way to present an ordered set of data items using a flexible and changeable layout. The most common use for collection views is to present items in a grid-like arrangement.
+> A collection view is a way to present an ordered set of data items using a flexible and changeable layout. The most common use for collection views is to present items in a grid-like arrangement.
 
 7.	Datepicker view
 
