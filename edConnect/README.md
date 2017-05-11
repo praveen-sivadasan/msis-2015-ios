@@ -23,10 +23,11 @@ The application edConnect lets 3 kinds of users to log into the system.
 
 **Application Screenshots**
 
-Application Main Page
+**Application Main Page**
 ![home_page](https://cloud.githubusercontent.com/assets/18182515/25932646/7d6836c6-35e0-11e7-90cf-0d2422005277.png)
-Google Sign In
+**Google Sign In**
 ![login](https://cloud.githubusercontent.com/assets/18182515/25932644/7d643210-35e0-11e7-9608-e45812916c84.png)
+
 User welcome page
 ![welcome](https://cloud.githubusercontent.com/assets/18182515/25932641/7d62c47a-35e0-11e7-90d1-84a767b6e3a4.png)
 Search Courses
